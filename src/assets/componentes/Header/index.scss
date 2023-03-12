@@ -1,0 +1,38 @@
+.header_home{
+    padding:1rem 2rem;
+    background-color: #E39F0B;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color:white;
+    display: grid;
+    grid-auto-flow: column;
+    gap:2rem;
+}
+
+.nav_home{
+    display: grid;
+    grid-auto-flow: column;
+    list-style: none;
+
+}
+
+.div_home{
+    display: grid;
+    grid-template-areas: column;
+    align-items: center;
+}
+
+.div_home img{
+    width:12rem;
+}
+
+.div_home_dir{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+.div_home_dir img{
+    width: 1.5rem;
+    padding: 0.5rem;
+}

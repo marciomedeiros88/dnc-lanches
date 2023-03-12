@@ -1,0 +1,36 @@
+.card{
+    height: auto;
+    width: 20rem;
+    border-radius: 1rem;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-weight: 700;
+    font-size: 14pt;
+    text-align: center;
+    border: solid 1px #E39F0B;
+    padding-bottom: 1rem;
+}
+
+.img img{
+    width:20rem;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.img{
+    border-radius: 1rem;
+}
+
+.title{
+    padding: 1rem;
+}
+
+button{
+    border-radius: 0.5rem;
+    background-color: #E39F0B;
+    padding: 0.5rem;
+    width: 50%;
+    border: none;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-weight: 700;
+}
